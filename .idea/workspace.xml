@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c89d29f5-3e3e-4a80-ae64-6040c85fa1bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextRecog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alphabeth/A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/1a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/1b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/1c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/1d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/1e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/2a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/2b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/2d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/NetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/NetUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/NeuroNet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/start/Start.java" afterDir="false" />
+    <list default="true" id="c89d29f5-3e3e-4a80-ae64-6040c85fa1bf" name="Changes" comment="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/NetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/NetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/NetUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/NetUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +35,19 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.Start" />
+      <module name="TextRecog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +59,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,8 +73,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655067343896</updated>
-      <workItem from="1655067346361" duration="2699000" />
+      <workItem from="1655067346361" duration="6586000" />
     </task>
+    <task id="LOCAL-00001" summary="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;">
+      <created>1655070239201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655070239201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;" />
   </component>
 </project>
