@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c89d29f5-3e3e-4a80-ae64-6040c85fa1bf" name="Changes" comment="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;">
+    <list default="true" id="c89d29f5-3e3e-4a80-ae64-6040c85fa1bf" name="Changes" comment="basic fixup&#10;&#10;added missing docstrings&#10;optimized formatting&#10;additional minor fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/NetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/NetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/NetUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/NetUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,8 @@
     "last_opened_file_path": "D:/Eclipse/git/TextRecog/.project",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RunManager">
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655067343896</updated>
-      <workItem from="1655067346361" duration="6586000" />
+      <workItem from="1655067346361" duration="7460000" />
     </task>
     <task id="LOCAL-00001" summary="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;">
       <created>1655070239201</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655070239201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic fixup&#10;&#10;added missing docstrings&#10;optimized formatting&#10;additional minor fixes">
+      <created>1655074765233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655074765233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial Commit&#10;&#10;final version for &quot;Besondere Lernleistung&quot;" />
+    <MESSAGE value="basic fixup&#10;&#10;added missing docstrings&#10;optimized formatting&#10;additional minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic fixup&#10;&#10;added missing docstrings&#10;optimized formatting&#10;additional minor fixes" />
   </component>
 </project>

@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2017-2022. Lasse Liening-Ewert, All rights reserved.
+ */
+
 package main;
 
 import java.util.Arrays;
